@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "API-DNA - API Verification",
+  "version": "1.0.0",
+  "description": "Free API verification engine - detect fake models, token inflation and relay servers",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "homepage_url": "https://api-dna.com"
+}
