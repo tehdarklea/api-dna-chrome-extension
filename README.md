@@ -25,3 +25,11 @@ Instant API verification in your browser. Detect fake models, token inflation, a
 ## License
 
 MIT
+
+---
+
+## 🔗 Related Projects
+
+- **[API-DNA](https://api-dna.com)** — API fingerprint verification engine
+- **[TokenC2C](https://tokenc2c.xyz)** — P2P marketplace for API computing power
+- **[SKILL.COFFEE](https://skill.coffee)** — 4800+ AI agent skills marketplace
